@@ -1,5 +1,5 @@
 # shared-witnesses
-Some members of the Web of Trust community share KERI witnesses with one another as a way to construct witness pools that are immune from an eclipse attack. See https://bit.ly/3T622PT.
+Some members of the Web of Trust community share KERI witnesses with one another as a way to construct witness pools that are immune from an eclipse attack. See [these slides](https://docs.google.com/presentation/d/1yk08OyAQGOVi9TlKIrkx7-hfm2AcI78LzDfAKiwNngE/present?usp=sharing).
 
 ## Participation
 You can use these shared witnesses if you are willing to contribute a witness of your own. The more witnesses, the better our collective protections.

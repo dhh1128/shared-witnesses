@@ -16,7 +16,7 @@ By signing as an individual below, you certify your organization's agreement wit
     * It will be active 24x7x365, excluding brief maintenance windows.
     * It is monitored, such that downtime will be noticed quickly.
     * It will continuously run the latest public release of KERI witness code from the `main` branch of keripy. When a new release becomes available, best efforts will be made to update within 2 weeks.
-    * It is suitably hardened from attack. It has a wisely configured firewall, unused ports and services are disabled, it receives appropriate patches with low latency, the administrators that operate it are vetted and trained, the secrets that guard access to them are well protected, their infrastructure is resistant to denial-of-service, and so forth.
+    * It is suitably hardened from attack. It has a wisely configured firewall, unused ports and services are disabled, it receives appropriate patches with low latency, the administrators that operate it are vetted and trained, the secrets that guard access to it are well protected, its infrastructure is resistant to denial-of-service, and so forth.
     * Its data is handled appropriately as a permanent and irreplaceable public resource. It is backed up at least once a day. You won't reset the state of the witness in a way that loses data. If a recovery from backup is needed, and you are unable to do the recovery yourself, you are willing to allow other participants in the sharing arrangement to use the backups to recover the data.
     * If you have unexpected struggles meeting these expectations, you will proactively notify the other participants in the sharing arrangement.
 

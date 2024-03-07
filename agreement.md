@@ -4,9 +4,9 @@ By signing as an individual below, you certify your organization's agreement wit
 
 1. Fair use
 
-You will use shared witnesses of other parties only for high-stakes identifiers that need protection from eclipse attacks, not for disposable identifiers or personal identifiers with a lower bar for attestation. Typically, this means the identifiers are multisig or delegated AIDs that operate under strict governance. The intent is that shared capacity is used for shared security guarantees, not for private scaling needs.
+    You will use shared witnesses of other parties only for high-stakes identifiers that need protection from eclipse attacks, not for disposable identifiers or personal identifiers with a lower bar for attestation. Typically, this means the identifiers are multisig or delegated AIDs that operate under strict governance. The intent is that shared capacity is used for shared security guarantees, not for private scaling needs.
 
-At least 1/3 of the witnesses in any witness pools that you configure to use these shared witnesses will consist of witnesses contributed by you. This means you must contribute 1 witness to configure a 3-witness pool from the shared set, 2 witnesses for a 4-, 5- or 6-witness pool, etc.
+    At least 1/3 of the witnesses in any witness pools that you configure to use these shared witnesses will consist of witnesses contributed by you. This means you must contribute 1 witness to configure a 3-witness pool from the shared set, 2 witnesses for a 4-, 5- or 6-witness pool, etc.
 
 2. Service level intentions
 
@@ -22,11 +22,15 @@ At least 1/3 of the witnesses in any witness pools that you configure to use the
 
 3. Publicness and inclusivity
 
-You acknowledge that your witness is providing a public service. You intend that anyone who is not a malicious actor may query your witnesses, without regard to their location, their affiliation, their demographics, and so forth.
+    You acknowledge that your witness is providing a public service. You intend that anyone who is not a malicious actor may query your witnesses, without regard to their location, their affiliation, their demographics, and so forth.
 
 4. Enforcement
 
-The enforcement mechanism for this agreement is reputation-based rather than legal. Compliance or non-compliance with this agreement will naturally influence reputation in the community, and it is via reputation that parties are held accountable. You explicitly disclaim any right to sue other participants about their compliance with this sharing arrangement.
+    The enforcement mechanism for this agreement is reputation-based rather than legal. Compliance or non-compliance with this agreement will naturally influence reputation in the community, and it is via reputation that parties are held accountable. You explicitly disclaim any right to sue other participants about their compliance with this sharing arrangement.
+
+5. Proactive monitoring
+
+    You will monitor the evolution of this document, and withdraw your signature if it changes in a way that alters your willingness to agree.
 
 ## Signers
 
